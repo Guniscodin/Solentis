@@ -1,0 +1,86 @@
+{
+  "common": {
+    "low": [
+      {"name": "Flintstone Shard", "value": 25, "sell_value": 20, "xp": 2, "rarity": "Common"},
+      {"name": "Dusty Pebblite", "value": 40, "sell_value": 32, "xp": 3, "rarity": "Common"},
+      {"name": "Copper Dullcore", "value": 60, "sell_value": 48, "xp": 4, "rarity": "Common"},
+      {"name": "Faded Quartz", "value": 80, "sell_value": 64, "xp": 5, "rarity": "Common"},
+      {"name": "Chalk Crystal", "value": 100, "sell_value": 80, "xp": 6, "rarity": "Common"}
+    ],
+    "high": [
+      {"name": "Marblenite", "value": 160, "sell_value": 125, "xp": 8, "rarity": "Common"},
+      {"name": "Stonegrain Ore", "value": 200, "sell_value": 155, "xp": 9, "rarity": "Common"},
+      {"name": "Dullrock Node", "value": 240, "sell_value": 185, "xp": 11, "rarity": "Common"},
+      {"name": "Low-Glow Quartz", "value": 300, "sell_value": 230, "xp": 14, "rarity": "Common"}
+    ]
+  },
+
+  "uncommon": {
+    "low": [
+      {"name": "Emberstone", "value": 300, "sell_value": 225, "xp": 12, "rarity": "Uncommon"},
+      {"name": "Frostiron", "value": 360, "sell_value": 270, "xp": 14, "rarity": "Uncommon"},
+      {"name": "Shards of Lunite", "value": 420, "sell_value": 315, "xp": 16, "rarity": "Uncommon"},
+      {"name": "Verdant Ore", "value": 500, "sell_value": 375, "xp": 18, "rarity": "Uncommon"}
+    ],
+    "high": [
+      {"name": "Shiverstone", "value": 700, "sell_value": 520, "xp": 22, "rarity": "Uncommon"},
+      {"name": "Thornite", "value": 850, "sell_value": 635, "xp": 26, "rarity": "Uncommon"},
+      {"name": "Rift Shard", "value": 1000, "sell_value": 750, "xp": 30, "rarity": "Uncommon"}
+    ]
+  },
+
+  "rare": {
+    "low": [
+      {"name": "Starfall Crystal", "value": 1500, "sell_value": 1100, "xp": 55, "rarity": "Rare"},
+      {"name": "Voidmetal", "value": 1800, "sell_value": 1350, "xp": 60, "rarity": "Rare"},
+      {"name": "Soulstone", "value": 2200, "sell_value": 1650, "xp": 70, "rarity": "Rare"}
+    ],
+    "high": [
+      {"name": "Phoenix Ore", "value": 3200, "sell_value": 2400, "xp": 90, "rarity": "Rare"},
+      {"name": "Astral Sapphire Ore", "value": 3800, "sell_value": 2850, "xp": 105, "rarity": "Rare"},
+      {"name": "Celestial Goldshard", "value": 4500, "sell_value": 3400, "xp": 120, "rarity": "Rare"}
+    ]
+  },
+
+  "epic": {
+    "low": [
+      {"name": "Frostfire Crystal", "value": 7000, "sell_value": 5200, "xp": 260, "rarity": "Epic"},
+      {"name": "Etherium", "value": 8500, "sell_value": 6350, "xp": 300, "rarity": "Epic"}
+    ],
+    "high": [
+      {"name": "Radiant Aquamarine", "value": 12000, "sell_value": 9000, "xp": 380, "rarity": "Epic"},
+      {"name": "Eternium", "value": 15000, "sell_value": 11250, "xp": 450, "rarity": "Epic"}
+    ]
+  },
+
+  "legendary": {
+    "low": [
+      {"name": "Infinity Core", "value": 22000, "sell_value": 16000, "xp": 900, "rarity": "Legendary"},
+      {"name": "Omega Diamond", "value": 26000, "sell_value": 19000, "xp": 1000, "rarity": "Legendary"}
+    ],
+    "high": [
+      {"name": "Genesis Ore", "value": 36000, "sell_value": 26000, "xp": 1250, "rarity": "Legendary"},
+      {"name": "Voidheart Metal", "value": 42000, "sell_value": 30000, "xp": 1400, "rarity": "Legendary"}
+    ]
+  },
+
+  "mythical": {
+    "low": [
+      {"name": "Drakonheart Core", "value": 60000, "sell_value": 42000, "xp": 2200, "rarity": "Mythical"},
+      {"name": "Seraphic Diamond", "value": 75000, "sell_value": 52000, "xp": 2600, "rarity": "Mythical"}
+    ],
+    "high": [
+      {"name": "Shard of the First Star", "value": 110000, "sell_value": 75000, "xp": 3400, "rarity": "Mythical"},
+      {"name": "Divine Tempest Ore", "value": 140000, "sell_value": 95000, "xp": 4000, "rarity": "Mythical"}
+    ]
+  },
+
+  "forbidden": {
+    "low": [
+      {"name": "Abysscore Ignis", "value": 300000, "sell_value": 150000, "xp": 7000, "rarity": "Forbidden"}
+    ],
+    "high": [
+      {"name": "Singularity Ore", "value": 450000, "sell_value": 200000, "xp": 9000, "rarity": "Forbidden"}
+    ]
+  }
+}

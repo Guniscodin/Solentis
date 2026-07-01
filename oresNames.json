@@ -1,0 +1,118 @@
+{
+  "common": {
+    "low": [
+      "Flintstone Shard",
+      "Dusty Pebblite",
+      "Copper Dullcore",
+      "Faded Quartz",
+      "Chalk Crystal"
+    ],
+    "high": [
+      "Marblenite",
+      "Stonegrain Ore",
+      "Dullrock Node",
+      "Low-Glow Quartz"
+    ]
+  },
+  "uncommon": {
+    "low": [
+      "Emberstone",
+      "Frostiron",
+      "Shards of Lunite",
+      "Verdant Ore",
+      "Tide Pearl Ore"
+    ],
+    "high": [
+      "Shiverstone",
+      "Thornite",
+      "Rift Shard",
+      "Glimmereye Ore",
+      "Seafoam Mineral"
+    ]
+  },
+  "rare": {
+    "low": [
+      "Starfall Crystal",
+      "Voidmetal",
+      "Soulstone",
+      "Aether Quartz",
+      "Draconite",
+      "Thunderium"
+    ],
+    "high": [
+      "Phoenix Ore",
+      "Astral Sapphire Ore",
+      "Emberheart Core",
+      "Solar Ruby Ore",
+      "Riftsteel Ore",
+      "Primal Emerald",
+      "Celestial Goldshard"
+    ]
+  },
+  "epic": {
+    "low": [
+      "Frostfire Crystal",
+      "Prismarine Core",
+      "Etherium",
+      "Nova Pearl Ore",
+      "Tempest Gem"
+    ],
+    "high": [
+      "Radiant Aquamarine",
+      "Ancient Titanite",
+      "Hollowstone",
+      "Solarflare Ore",
+      "Darkmatter Quartz",
+      "Eternium"
+    ]
+  },
+  "legendary": {
+    "low": [
+      "Infinity Core",
+      "Heart of the Abyss",
+      "Originite",
+      "Omega Diamond",
+      "Sunbreaker Ore",
+      "Leviathan Gem"
+    ],
+    "high": [
+      "Eclipse Crystal",
+      "Genesis Ore",
+      "Astral Serpent Shard",
+      "Cosmic Eternite",
+      "Dragonstar Ore",
+      "Voidheart Metal"
+    ]
+  },
+  "mythical": {
+    "low": [
+      "Drakonheart Core",
+      "Titanblood Crystal",
+      "Leviathium Ore",
+      "Celestial Dragonite",
+      "Echo of Eternity",
+      "Seraphic Diamond"
+    ],
+    "high": [
+      "Oracle Stone",
+      "Riftborn Amethyst",
+      "Arcane Emberite",
+      "Shard of the First Star",
+      "Divine Tempest Ore"
+    ]
+  },
+  "forbidden": {
+    "low": [
+      "Abysscore Ignis",
+      "Infinity Collapse Gem",
+      "Omega Rift Core",
+      "Heart of the Fallen Titan",
+      "Paradox Ruby"
+    ],
+    "high": [
+      "Singularity Ore",
+      "Endbringer Crystal",
+      "Cataclysm Opal"
+    ]
+  }
+}

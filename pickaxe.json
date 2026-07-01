@@ -1,0 +1,219 @@
+{
+  "common": [
+    {
+      "name": "⛏ wooden",
+      "rarity": "Common",
+      "price": 0,
+      "can_mine": [
+        "Flintstone Shard",
+        "Dusty Pebblite",
+        "Copper Dullcore",
+        "Faded Quartz",
+        "Chalk Crystal"
+      ]
+    },
+    {
+      "name": "⛏ Stone Cracker",
+      "rarity": "Common",
+      "price": 1500,
+      "can_mine": [
+        "Flintstone Shard",
+        "Dusty Pebblite",
+        "Copper Dullcore",
+        "Faded Quartz",
+        "Chalk Crystal",
+        "Marblenite"
+      ]
+    },
+    {
+      "name": "⛏ Old Copper pickaxe",
+      "rarity": "Common",
+      "price": 3500,
+      "can_mine": [
+        "Flintstone Shard",
+        "Dusty Pebblite",
+        "Copper Dullcore",
+        "Faded Quartz",
+        "Chalk Crystal",
+        "Marblenite",
+        "Stonegrain Ore"
+      ]
+    }
+  ],
+
+  "uncommon": [
+    {
+      "name": "🔧 FlareSteel pickaxe",
+      "rarity": "Uncommon",
+      "price": 12000,
+      "can_mine": [
+        "Marblenite",
+        "Stonegrain Ore",
+        "Emberstone",
+        "Frostiron",
+        "Shards of Lunite",
+        "Verdant Ore"
+      ]
+    },
+    {
+      "name": "🔧 Frostbite pickaxe",
+      "rarity": "Uncommon",
+      "price": 18000,
+      "can_mine": [
+        "Marblenite",
+        "Stonegrain Ore",
+        "Emberstone",
+        "Frostiron",
+        "Shards of Lunite",
+        "Verdant Ore",
+        "Shiverstone"
+      ]
+    }
+  ],
+
+  "rare": [
+    {
+      "name": "🔮 TempestSplit pickaxe",
+      "rarity": "Rare",
+      "price": 60000,
+      "can_mine": [
+        "Emberstone",
+        "Frostiron",
+        "Shards of Lunite",
+        "Verdant Ore",
+        "Starfall Crystal",
+        "Voidmetal",
+        "Soulstone"
+      ]
+    },
+    {
+      "name": "🔮 ArcaneEmber pickaxe",
+      "rarity": "Rare",
+      "price": 90000,
+      "can_mine": [
+        "Emberstone",
+        "Frostiron",
+        "Shards of Lunite",
+        "Verdant Ore",
+        "Starfall Crystal",
+        "Voidmetal",
+        "Soulstone",
+        "Phoenix Ore"
+      ]
+    }
+  ],
+
+  "epic": [
+    {
+      "name": "💎 Chrono pickaxe",
+      "rarity": "Epic",
+      "price": 220000,
+      "can_mine": [
+        "Starfall Crystal",
+        "Voidmetal",
+        "Soulstone",
+        "Phoenix Ore",
+        "Astral Sapphire Ore",
+        "Celestial Goldshard",
+        "Frostfire Crystal",
+        "Etherium"
+      ]
+    },
+    {
+      "name": "💎 VoidCaster pickaxe",
+      "rarity": "Epic",
+      "price": 320000,
+      "can_mine": [
+        "Starfall Crystal",
+        "Voidmetal",
+        "Soulstone",
+        "Phoenix Ore",
+        "Astral Sapphire Ore",
+        "Celestial Goldshard",
+        "Frostfire Crystal",
+        "Etherium",
+        "Radiant Aquamarine"
+      ]
+    }
+  ],
+
+  "legendary": [
+    {
+      "name": "🚀 Quantum Shredder",
+      "rarity": "Legendary",
+      "price": 900000,
+      "can_mine": [
+        "Frostfire Crystal",
+        "Etherium",
+        "Radiant Aquamarine",
+        "Eternium",
+        "Infinity Core",
+        "Omega Diamond"
+      ]
+    },
+    {
+      "name": "🚀 HeavenBreaker",
+      "rarity": "Legendary",
+      "price": 1300000,
+      "can_mine": [
+        "Frostfire Crystal",
+        "Etherium",
+        "Radiant Aquamarine",
+        "Eternium",
+        "Infinity Core",
+        "Omega Diamond",
+        "Genesis Ore",
+        "Voidheart Metal"
+      ]
+    }
+  ],
+
+  "mythical": [
+    {
+      "name": "🌌 DawnBreaker pickaxe",
+      "rarity": "Mythical",
+      "price": 2600000,
+      "can_mine": [
+        "Infinity Core",
+        "Omega Diamond",
+        "Genesis Ore",
+        "Voidheart Metal",
+        "Drakonheart Core",
+        "Seraphic Diamond"
+      ]
+    },
+    {
+      "name": "🌌 WorldShaper pickaxe",
+      "rarity": "Mythical",
+      "price": 3600000,
+      "can_mine": [
+        "Infinity Core",
+        "Omega Diamond",
+        "Genesis Ore",
+        "Voidheart Metal",
+        "Drakonheart Core",
+        "Seraphic Diamond",
+        "Shard of the First Star",
+        "Divine Tempest Ore"
+      ]
+    }
+  ],
+
+  "transcendent": [
+    {
+      "name": "🔱 The Nameless Pick",
+      "rarity": "Transcendent",
+      "price": 5000000,
+      "can_mine": [
+        "Genesis Ore",
+        "Voidheart Metal",
+        "Drakonheart Core",
+        "Seraphic Diamond",
+        "Shard of the First Star",
+        "Divine Tempest Ore",
+        "Abysscore Ignis",
+        "Singularity Ore"
+      ]
+    }
+  ]
+}

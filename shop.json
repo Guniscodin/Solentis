@@ -1,0 +1,85 @@
+[
+    {
+        "rarity": "uncommon",
+        "item": {
+            "name": "\ud83d\udd27 Frostbite pickaxe",
+            "rarity": "Uncommon",
+            "price": 18000,
+            "can_mine": [
+                "Marblenite",
+                "Stonegrain Ore",
+                "Emberstone",
+                "Frostiron",
+                "Shards of Lunite",
+                "Verdant Ore",
+                "Shiverstone"
+            ]
+        }
+    },
+    {
+        "rarity": "uncommon",
+        "item": {
+            "name": "\ud83d\udd27 Frostbite pickaxe",
+            "rarity": "Uncommon",
+            "price": 18000,
+            "can_mine": [
+                "Marblenite",
+                "Stonegrain Ore",
+                "Emberstone",
+                "Frostiron",
+                "Shards of Lunite",
+                "Verdant Ore",
+                "Shiverstone"
+            ]
+        }
+    },
+    {
+        "rarity": "rare",
+        "item": {
+            "name": "\ud83d\udd2e TempestSplit pickaxe",
+            "rarity": "Rare",
+            "price": 60000,
+            "can_mine": [
+                "Emberstone",
+                "Frostiron",
+                "Shards of Lunite",
+                "Verdant Ore",
+                "Starfall Crystal",
+                "Voidmetal",
+                "Soulstone"
+            ]
+        }
+    },
+    {
+        "rarity": "uncommon",
+        "item": {
+            "name": "\ud83d\udd27 FlareSteel pickaxe",
+            "rarity": "Uncommon",
+            "price": 12000,
+            "can_mine": [
+                "Marblenite",
+                "Stonegrain Ore",
+                "Emberstone",
+                "Frostiron",
+                "Shards of Lunite",
+                "Verdant Ore"
+            ]
+        }
+    },
+    {
+        "rarity": "common",
+        "item": {
+            "name": "\u26cf Stone Cracker",
+            "rarity": "Common",
+            "price": 1500,
+            "can_mine": [
+                "Flintstone Shard",
+                "Dusty Pebblite",
+                "Copper Dullcore",
+                "Faded Quartz",
+                "Chalk Crystal",
+                "Marblenite"
+            ]
+        }
+    }
+]
